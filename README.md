@@ -1,0 +1,1 @@
+rules on discord
