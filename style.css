@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+h1{margin: 30px;
+    text-shadow: 3px 3px 5px rgb(214, 64, 64), -3px -3px 5px rgb(193, 7, 250);
+    color: rgb(241, 241, 241);
+}
+h2{ text-shadow: 3px 3px 5px rgb(214, 64, 64);
+    color: white;
+    margin: 50px;
+}
+h4{
+    color: white;
+    margin: 60px;
+}
+#img1{ width: 800px;
+    float: right;
+    margin-top: -1272px;
+    
+}
+.box{
+   height: auto;
+   border: 2px solid white;
+   margin: 12px;
+   width: auto;
+   
+}
